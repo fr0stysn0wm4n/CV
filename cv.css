@@ -2,5 +2,18 @@
 {
 }
 h1 
-{text-align : center;
+{text-align : center;}
+.right
+{text-align : right;
+  
+}
+.face
+{
+    float: left;
+}
+.cv-body 
+{
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
 }
